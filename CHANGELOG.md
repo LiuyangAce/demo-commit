@@ -1,5 +1,9 @@
 
 
+## <small>0.0.2 (2023-03-06)</small>
+
+* feat: add1.js文件,测试release-it ([03928ce](https://gitee.com/bi_1773587692/demo-commit/commits/03928ce))
+
 ## <small>0.0.1 (2023-03-06)</small>
 
 * chore: 添加提交信息规范 ([134d0ad](https://gitee.com/bi_1773587692/demo-commit/commits/134d0ad))
