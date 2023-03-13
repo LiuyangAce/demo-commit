@@ -1,5 +1,12 @@
 
 
+## [0.0.3](https://gitee.com/bi_1773587692/demo-commit/compare/0.0.2...0.0.3) (2023-03-13)
+
+
+### 🔧配置文件
+
+* 修改release-it配置 ([4c1d93a](https://gitee.com/bi_1773587692/demo-commit/commit/4c1d93a787fc0573864e49c4c22f19c9e3b6c001))
+
 ## <small>0.0.2 (2023-03-06)</small>
 
 * feat: add1.js文件,测试release-it ([03928ce](https://gitee.com/bi_1773587692/demo-commit/commits/03928ce))
