@@ -41,6 +41,8 @@ module.exports = {
     // type(subject) body
   }
 };
+// https://blog.csdn.net/dragonballs/article/details/126313307
+
 // https://www.swvq.com/article/detail/959/
 
 // <type>(<scope>): <subject>
