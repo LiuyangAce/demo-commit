@@ -26,6 +26,7 @@ module.exports = {
   extends: ['@commitlint/config-conventional'],
   rules: {
     "type-enum": commitTypeRules,
-    // "type-empty": [2, 'always']
+    "type-empty": [2, 'always'],
+    "subject-empty": [2, 'always']
   }
 };
